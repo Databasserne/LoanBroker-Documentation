@@ -1,12 +1,12 @@
 # LoanBroker-Documentation
 
-## Gruppe
-* Kasper Worm
-* Jonas Simonsen
+## Group
+* Kasper Sylvest Worm
+* Jonas Kjær Simonsen
 * Martin Karlsen
 * Alexander Steen
 
-Vores LoanBroker projekt er delt op i flere repositories for de enkelte komponenter
+Vores LoanBroker projekt er delt op i flere repositories for de enkelte komponenter:
 * [Translator BankJSON og BankXML](https://github.com/Databasserne/LoanBroker-Translator) 
 * [Translator BankSOAP](https://github.com/Databasserne/LoanBroker-CSharp/tree/master/BankSOAP)
 * [Translator BankNODE](https://github.com/Databasserne/LoanBroker-Translator-NodeBank)
@@ -21,21 +21,22 @@ Vores LoanBroker projekt er delt op i flere repositories for de enkelte komponen
 * [Dimmer](https://github.com/Databasserne/LoanBroker-CSharp/tree/master/Dimmer)
 * [Frontend](https://github.com/Databasserne/LoanBroker-Frontend)
 
-## Indholdsfortegnelse
-* [Description](beskrivelse)
+## Table of contents
+* [Description](description)
 * [Languages Used](#languages)
 * [Class Diagrams](#classdiagrams)
 * [Sequence Diagram](#sequencediagrams)
 * [Testability](#testability)
-* [Bottlenecks & Improvements](#bottheneck/improvement)
+* [Bottlenecks & Improvements](#bottleneck/improvement)
 * [ScreenShot](#screenshots)
 
-### beskrivelse
+### Description
 Dette er en hjemmeside hvor brugeren vil kunne skrive deres social security number, hvor mange penge de vil låne og hvor lang låne perioden skal varer. Systemet vil selv finde credit score ud fra det indtastede data og systemet vil finde den bedst mulige rente, efter en søgning i flere banker.
 
 
 ### Languages
-Vores program er skrevet i forskellige sprog, vi har brugt Java, C#, JavaScript(Node.js)
+Vores program er skrevet i forskellige sprog, vi har brugt Java, C#, JavaScript(Node.js).
+
 De enkelte komponenter:
 
 Translator BankJSON og BankXML: Java <br>
@@ -118,7 +119,7 @@ altså teste messageFormatter() metoden, altså unit teste den metode.
 [Normalizer Test Class](https://github.com/Databasserne/LoanBroker-Normalizer/blob/master/src/test/java/com/databasserne/loanbroker/normalizer/NormalizerTest.java)
 En måde man kunne have gjort disse tests bedre på var at lave parameterised tests, som kører samme test flere gange, men med forskellige parametre.
 
-### Botthenecks/Improvements
+### Bottlenecks/Improvements
 Vi er usikre på om dette er fejl i vores kode, 
 eller for meget belastning på rabbitmq serveren.
 Nogle gange modtager vores normalizer ikke alle de beskeder vi sender.
@@ -126,11 +127,11 @@ Det er ofte midt på dagen i primetime dette sker.
 Når det testes om aftenen er der ingen problemer og alt går igennem som det skal.
 
 Når man declare queues/exchanges skal man være opmærksom på at det skal gøres på den samme måde, 
-hvis man bruger det samme navn, da det ellers vil skabe konflikt og give en runtimeException
+hvis man bruger det samme navn, da det ellers vil skabe konflikt og give en runtimeException.
 
 
 ### Screenshots
-Flowet kan ses i screenshots, som kommer i rækkefølge
+Flowet kan ses i screenshots, som kommer i rækkefølge.
 ![sendrequest](https://github.com/Databasserne/LoanBroker-Documentation/blob/master/ScreenShots/before-request.png)
 ![loading](https://github.com/Databasserne/LoanBroker-Documentation/blob/master/ScreenShots/loading.png)
 ![dimmer](https://github.com/Databasserne/LoanBroker-Documentation/blob/master/ScreenShots/Dimmer.png)
@@ -143,3 +144,5 @@ Flowet kan ses i screenshots, som kommer i rækkefølge
 ![normalizer](https://github.com/Databasserne/LoanBroker-Documentation/blob/master/ScreenShots/Normalizer.png)
 ![aggregator](https://github.com/Databasserne/LoanBroker-Documentation/blob/master/ScreenShots/Aggra.png)
 ![response](https://github.com/Databasserne/LoanBroker-Documentation/blob/master/ScreenShots/response.png)
+
+Screenshotsne er med flere forskellige requests, og ikke kun 1 enkelt
