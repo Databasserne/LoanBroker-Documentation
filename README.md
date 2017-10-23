@@ -22,12 +22,17 @@ Vores LoanBroker projekt er delt op i flere repositories for de enkelte komponen
 * [Frontend](https://github.com/Databasserne/LoanBroker-Frontend)
 
 ## Indholdsfortegnelse
+* [Description](beskrivelse)
 * [Languages Used](#languages)
 * [Class Diagrams](#classdiagrams)
 * [Sequence Diagram](#sequencediagrams)
 * [Testability](#testability)
 * [Bottlenecks & Improvements](#bottheneck/improvement)
 * [ScreenShot](#screenshots)
+
+### beskrivelse
+Dette er en hjemmeside hvor brugeren vil kunne skrive deres social security number, hvor mange penge de vil låne og hvor lang låne perioden skal varer. Systemet vil selv finde credit score ud fra det indtastede data og systemet vil finde den bedst mulige rente, efter en søgning i flere banker.
+
 
 ### Languages
 Vores program er skrevet i forskellige sprog, vi har brugt Java, C#, JavaScript(Node.js)
