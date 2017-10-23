@@ -125,4 +125,18 @@ hvis man bruger det samme navn, da det ellers vil skabe konflikt og give en runt
 
 
 ### Screenshots
+Flowet kan ses i screenshots, som kommer i rækkefølge
+![dimmer](https://github.com/Databasserne/LoanBroker-Documentation/blob/master/ScreenShots/Dimmer.png)
+![creditscore](https://github.com/Databasserne/LoanBroker-Documentation/blob/master/ScreenShots/CreditScore.png)
+![getbanks]()
+![rulebase]()
+![bankrouter](https://github.com/Databasserne/LoanBroker-Documentation/blob/master/ScreenShots/BankRouter.png)
+![translatorNODE]()
+![translatorSOAP](https://github.com/Databasserne/LoanBroker-Documentation/blob/master/ScreenShots/TransSOAP.png)
+![translatorXML]()
+![translatorJSON]()
+![bankSOAP]()
+![bankNODE]()
+![normalizer]()
+![aggregator](https://github.com/Databasserne/LoanBroker-Documentation/blob/master/ScreenShots/Aggra.png)
 
