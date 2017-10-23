@@ -32,19 +32,20 @@ Vores LoanBroker projekt er delt op i flere repositories for de enkelte komponen
 ### Languages
 Vores program er skrevet i forskellige sprog, vi har brugt Java, C#, JavaScript(Node.js)
 De enkelte komponenter:
-Translator BankJSON og BankXML: Java
-Translator BankSOAP: C#
-Translator BankNODE: JavaScript(Node.js)
-Normalizer: Java
-GetCreditScore: C#
-BankSOAP: C#
-BankNODE: JavaScript(Node.js)
-GetBanks: Java
-RuleBase: Java
-BankRouter: C#
-Aggregator: C#
-Dimmer: C#
-Frontend: Angular
+
+Translator BankJSON og BankXML: Java <br>
+Translator BankSOAP: C# <br>
+Translator BankNODE: JavaScript(Node.js) <br>
+Normalizer: Java <br>
+GetCreditScore: C# <br>
+BankSOAP: C# <br>
+BankNODE: JavaScript(Node.js) <br>
+GetBanks: Java <br>
+RuleBase: Java <br>
+BankRouter: C# <br>
+Aggregator: C# <br>
+Dimmer: C# <br>
+Frontend: Angular <br>
 
 ### ClassDiagrams
 #### Dimmer
