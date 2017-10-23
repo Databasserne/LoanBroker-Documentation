@@ -99,17 +99,7 @@ Normalizeren lytter efter svar fra alle bankerne. Den modtager et svar i form af
 Aggregatoren samler alle inputs fra normalizeren. Den lytter efter det første input den får fra normalizeren og sætter derved en timer i gang hvor den venter 10 sekunder mens den får andre input fra normalizeren. Når de 10 sekunder er gået tager den, den laveste rate og sender videre til dimmeren.
 
 ### SequenceDiagrams
-text
-
-text
-
-text
-
-text
-
-text
-
-text
+![Sequence](https://github.com/Databasserne/LoanBroker-Documentation/blob/master/UML-Pictures/sequence.png)
 
 ### Testability
 Et eksempel kan være at tage translatoren som eksempel. 
