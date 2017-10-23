@@ -22,12 +22,12 @@ Vores LoanBroker projekt er delt op i flere repositories for de enkelte komponen
 * [Frontend](https://github.com/Databasserne/LoanBroker-Frontend)
 
 ## Indholdsfortegnelse
-* [Languages Used](#Languagesused)
-* [Class Diagrams](#ClassDiagrams)
-* [Sequence Diagram](#SequenceDiagrams)
-* [Testability](#Testability)
-* [Bottlenecks & Improvements](#Bottheneck/Improvement)
-* [ScreenShot](#Screenshots)
+* [Languages Used](#languagesused)
+* [Class Diagrams](#classdiagrams)
+* [Sequence Diagram](#sequencediagrams)
+* [Testability](#testability)
+* [Bottlenecks & Improvements](#bottheneck/improvement)
+* [ScreenShot](#screenshots)
 
 ### Languages
 Vores program er skrevet i forskellige sprog, vi har brugt Java, C#, JavaScript(Node.js)
