@@ -126,17 +126,15 @@ hvis man bruger det samme navn, da det ellers vil skabe konflikt og give en runt
 
 ### Screenshots
 Flowet kan ses i screenshots, som kommer i rækkefølge
+![sendrequest](https://github.com/Databasserne/LoanBroker-Documentation/blob/master/ScreenShots/before-request.png)
+![loading](https://github.com/Databasserne/LoanBroker-Documentation/blob/master/ScreenShots/loading.png)
 ![dimmer](https://github.com/Databasserne/LoanBroker-Documentation/blob/master/ScreenShots/Dimmer.png)
 ![creditscore](https://github.com/Databasserne/LoanBroker-Documentation/blob/master/ScreenShots/CreditScore.png)
-![getbanks]()
-![rulebase]()
+![getbanks](https://github.com/Databasserne/LoanBroker-Documentation/blob/master/ScreenShots/getbanks.PNG)
 ![bankrouter](https://github.com/Databasserne/LoanBroker-Documentation/blob/master/ScreenShots/BankRouter.png)
-![translatorNODE]()
 ![translatorSOAP](https://github.com/Databasserne/LoanBroker-Documentation/blob/master/ScreenShots/TransSOAP.png)
-![translatorXML]()
-![translatorJSON]()
-![bankSOAP]()
-![bankNODE]()
-![normalizer]()
+![translatorXML](https://github.com/Databasserne/LoanBroker-Documentation/blob/master/ScreenShots/BankXML.png)
+![translatorJSON](https://github.com/Databasserne/LoanBroker-Documentation/blob/master/ScreenShots/BankJSON.png)
+![normalizer](https://github.com/Databasserne/LoanBroker-Documentation/blob/master/ScreenShots/Normalizer.png)
 ![aggregator](https://github.com/Databasserne/LoanBroker-Documentation/blob/master/ScreenShots/Aggra.png)
-
+![response](https://github.com/Databasserne/LoanBroker-Documentation/blob/master/ScreenShots/response.png)
