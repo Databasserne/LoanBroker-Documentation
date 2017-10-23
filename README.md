@@ -22,7 +22,7 @@ Vores LoanBroker projekt er delt op i flere repositories for de enkelte komponen
 * [Frontend](https://github.com/Databasserne/LoanBroker-Frontend)
 
 ## Indholdsfortegnelse
-* [Languages Used](#languagesused)
+* [Languages Used](#languages)
 * [Class Diagrams](#classdiagrams)
 * [Sequence Diagram](#sequencediagrams)
 * [Testability](#testability)
