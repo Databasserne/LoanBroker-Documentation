@@ -1,0 +1,11 @@
+Group hand in
+Loanbroker project
+
+Databasserne:
+Kasper Sylvest Worm
+Jonas Kjær Simonsen
+Martin Karlsen
+Alexander Steen
+
+Github repository:
+https://github.com/Databasserne/LoanBroker-Documentation
