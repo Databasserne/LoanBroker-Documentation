@@ -48,7 +48,7 @@ Frontend: Angular
 
 ### ClassDiagrams
 ##### Dimmer
-![dimmer] (https://github.com/Databasserne/LoanBroker-Documentation/blob/master/UML-Pictures/dimmer.png)
+![Dimmer](https://github.com/Databasserne/LoanBroker-Documentation/blob/master/UML-Pictures/dimmer.png)
 
 text
 
